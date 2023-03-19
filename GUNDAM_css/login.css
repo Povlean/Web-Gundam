@@ -1,0 +1,49 @@
+body {
+    background-image: url(../GUNDAM_image/fiction.jpg);
+}
+
+.login {
+    background-color: rgba(255,255,255,60%);
+    border-radius: 15px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 100px;
+    width: 360px;
+    height: 400px;
+}
+.login h1 {
+    padding-top: 60px;
+    color: #ffffff;
+}
+
+.login .input {
+    margin-top:15px;
+}
+
+.login .input input {
+    border: none;
+    background: none;
+    border-bottom: #ffffff 2px solid;
+    padding: 5px 10px;
+    outline: none;
+    color: #ffffff;
+}
+
+.sign {
+    background-image: linear-gradient(to right , #736de4, #b064d8);
+    color: #ffffff;
+    margin-top: 40px;
+    width:100px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    text-decoration: none;
+}
+.sign a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.sign:hover {
+    background: rgba(101, 98, 98, 0.2);
+}
+

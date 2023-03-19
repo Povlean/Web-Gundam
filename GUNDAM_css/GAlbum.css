@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	font-size: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+body {
+	display: table;
+	background-color: #666;
+	/* background-size: 100% 100%;
+	background-position: 0px 0px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+	background-image: radial-gradient(49% 81% at 45% 47%, #FFE20345 0%, #073AFF00 100%), radial-gradient(113% 91% at 17% -2%, #FF5A00FF 1%, #FF000000 99%), radial-gradient(142% 91% at 83% 7%, #FFDB00FF 1%, #FF000000 99%), radial-gradient(142% 91% at -6% 74%, #FF0049FF 1%, #FF000000 99%), radial-gradient(142% 91% at 111% 84%, #FF7000FF 0%, #FF0000FF 100%); */
+}
+
+#cont{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.ima{
+	width: 310px;
+	padding: 18px;
+	margin: 30px;
+	background-color: #FFFFFF;
+	transition: transform 0.8s;
+	-webkit-transform: transform 0.8s;
+}
+
+.ima:hover{
+	transform: scale(1.5) rotate(0deg) !important;
+}
+
+#a{
+	transform: rotate(12deg);
+}
+
+#b{
+	transform: rotate(-5deg);
+}
+
+#c{
+	transform: rotate(10deg);
+}
+
+#d{
+	transform: rotate(8deg);
+}
+
+#e{
+	transform: rotate(-10deg);
+}
+
+#f{
+	transform: rotate(-5deg);
+}
+
+#g{
+	transform: rotate(10deg);
+}
+
+#h{
+	transform: rotate(8deg);
+}
+
+#i{
+	transform: rotate(3deg);
+}
+
+#j{
+	transform: rotate(-5deg);
+}
+
+#k{
+	transform: rotate(8deg);
+}
+
+#l{
+	transform: rotate(13deg);
+}

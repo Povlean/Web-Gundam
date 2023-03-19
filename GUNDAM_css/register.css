@@ -1,0 +1,62 @@
+body {
+    background-image: url(../GUNDAM_image/fiction.jpg);
+    color: rgb(110, 80, 218);
+}
+
+.login {
+    height: 650px;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 525px;
+    /* background-color:  #00000068; */
+    background-color: rgba(255,255,255,60%);
+    position: relative;
+    border-radius: 10px;
+    box-shadow: #aaa;
+    
+}
+.login div h3 {
+    margin-top: 60px;
+}
+.info input {
+    border: none;
+    background: none;
+    border-bottom: #ffffff 2px solid;
+    padding: 5px 10px;
+    outline: none;
+    color: #ffffff;
+}
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: seashell;
+}
+td {
+    font-family: "幼圆" ;
+}
+.toLogin {
+    text-decoration: none;
+}
+.info {
+    padding-left: 50px;
+    padding-top: 25px;
+}
+/* 测试 */
+.sign {
+    /* background-image: linear-gradient(to right , #ed7e7e, #a42843); */
+    background-image: linear-gradient(to right , #736de4, #b064d8);
+    color: #ffffff;
+    margin-top: 10px;
+    width:100px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    text-decoration: none;
+}
+.toLogin span {
+    color: #736de4;
+    margin-left: 280px;
+}
+li {
+    list-style: none;
+}
